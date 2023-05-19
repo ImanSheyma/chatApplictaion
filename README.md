@@ -1,2 +1,2 @@
 # chatApplictaion
-messaging system
+Spring Boot chat application
